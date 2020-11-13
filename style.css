@@ -7,6 +7,10 @@ header {
   margin: auto;
 }
 
+p#featured-property {
+  width: 800px;
+}
+
 #featured-property {
   margin: auto;
 }
