@@ -14,3 +14,7 @@ p#featured-property {
 #featured-property {
   margin: auto;
 }
+
+#details {
+  display: block;
+}
